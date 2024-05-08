@@ -15,7 +15,7 @@ function App() {
         confirmPassword: ''
       });
     
-  const [currentPage, setCurrentPage] = useState('SignUp');
+  const [currentPage, setCurrentPage] = useState('LoginPage');
 
   const[Homebutton,setHomebutton]=useState(null);
 
